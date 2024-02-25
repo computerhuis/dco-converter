@@ -1,0 +1,5 @@
+username;password;user_type
+counter;$2a$12$dRz3wilxtTk3TIQG9Sh1kukUehKTQIXYB.sTJDsQemMu0BTrlAS1C;SYSTEM
+workshop;$2a$12$4iSHx0cKsBKkf7O4ANkHxO8eZzzbMo3MzFZQ6Xb7Ecx3hSU4UCYgi;SYSTEM
+education;$2a$12$XGJ3sSx1p2Bx72zFKg89Kussmhskuwjtn8id4GGt6gi.1XWWodtX.;SYSTEM
+admin;$2a$12$A2xxk1uROgqOcFZBkqLOH.Xt4qC1rvD8Eup6EhklPfXPXwc04LlKK;SYSTEM

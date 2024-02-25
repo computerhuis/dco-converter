@@ -1,0 +1,5 @@
+bs4>=0.0.1
+html5lib>=1.0.1
+mariadb>=1.0.0
+pyodbc>=1.0.0
+aiohttp>=3.9.3
